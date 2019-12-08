@@ -1,0 +1,16 @@
+Performance Overview
+Percentage Of Matched Restaurants      Matched Number of Restaurants    Unmatched Number of Restuarants    Total Number of Restaurants
+-----------------------------------  -------------------------------  ---------------------------------  -----------------------------
+0.00938%                                                          11                               1162                           1173
+
+
+Rating Percentages for Ann Arbor
+0-1    1-2    2-3     3-4     4-5
+-----  -----  ------  ------  ------
+0.0%   3.55%  14.89%  36.88%  44.68%
+
+
+Rating Percentages for All Recorded Restaurants
+0-1    1-2    2-3    3-4     4-5
+-----  -----  -----  ------  -----
+0.0%   1.28%  5.37%  19.95%  73.4%
