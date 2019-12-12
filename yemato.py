@@ -9,8 +9,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 from tabulate import tabulate
 
-ZOMATO_APIKEY = "3294ecc63743e26db536f154a2ebef19" #SET API KEY
-YELP_APIKEY = "9-IePIwqtX5s1u1qOvMFGHu_JpBmhRfkNsQ-U1dHIMKOD5qPcdQqGRn9S3-mZK4NrieX1syKfURb9Kz9d3HQwfR2er9H-wM-NVuNkI7TvR-upJOobwDuJmYUvL3aXXYx" #SET API KEY
+ZOMATO_APIKEY = "" #SET API KEY
+YELP_APIKEY = "" #SET API KEY
 
 yelp_api = YelpAPI(YELP_APIKEY)
 
